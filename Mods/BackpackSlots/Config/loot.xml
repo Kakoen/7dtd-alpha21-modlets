@@ -1,0 +1,7 @@
+<configs>
+	<!-- player crafted chest only here to check if the dropped backpack fits on screen -->
+<!--	<set xpath="/lootcontainers/lootcontainer[@id='1']/@size">13,12</set>	-->
+												 <!-- left/right,top/bottom -->
+	<set xpath="/lootcontainers/lootcontainer[@id='2']/@size">13,12</set>
+	
+</configs>
