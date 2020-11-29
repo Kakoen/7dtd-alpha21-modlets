@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<xml>
-	<ModInfo>
-		<Name value="Wrathmaniacs Food and Water Bars" />
-		<Description value="Simple xml edit to add a food and water bar to the hud with numbers." />
-		<Author value="wrathmaniac" />
-		<Version value="1.2" />
-	</ModInfo>
-</xml>
