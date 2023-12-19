@@ -1,8 +1,8 @@
 <configs>
-
+<!--
 	<set xpath="progression/perks/perk[@name='perkFiremansAlmanacComplete']/effect_group/passive_effect[@name='CarryCapacity']/@value">136</set>
 	<set xpath="progression/perks/perk[@name='perkNightStalkerThiefAdrenaline']/effect_group/passive_effect[@name='CarryCapacity']/@value">136</set>
-
+-->
 <remove xpath="/progression/perks/perk[@name='perkPackMule']" />
 
 <append xpath="/progression/perks">
@@ -16,11 +16,11 @@
 
 		<effect_group>
 			<passive_effect name="CarryCapacity" operation="base_add" level="1,2,3,4,5" value="5,15,30,50,75"/>
-			<effect_description level="1" desc_key="perkPackMuleRank1Desc" long_desc_key="We all have to start some where.\nCarry five more items without being encumbered." />
-			<effect_description level="2" desc_key="perkPackMuleRank2Desc" long_desc_key="You are becoming a decent bag lady\nCarry ten more items without being encumbered."/>
-			<effect_description level="3" desc_key="perkPackMuleRank3Desc" long_desc_key="You know it's in there somewhere.\nCarry fifteen more items without being encumbered."/>
-			<effect_description level="4" desc_key="perkPackMuleRank4Desc" long_desc_key="You know exactly where everything is.\nCarry twenty more items without being encumbered."/>
-			<effect_description level="5" desc_key="perkPackMuleRank5Desc" long_desc_key="Now you are just showing off,\nCarry twenty five more items without being encumbered."/>
+			<effect_description level="1" desc_key="perkPackMuleRank1Desc" long_desc_key="perkPackMuleRank1LongDesc" />
+			<effect_description level="2" desc_key="perkPackMuleRank2Desc" long_desc_key="perkPackMuleRank2LongDesc"/>
+			<effect_description level="3" desc_key="perkPackMuleRank3Desc" long_desc_key="perkPackMuleRank3LongDesc"/>
+			<effect_description level="4" desc_key="perkPackMuleRank4Desc" long_desc_key="perkPackMuleRank4LongDesc"/>
+			<effect_description level="5" desc_key="perkPackMuleRank5Desc" long_desc_key="perkPackMuleRank5LongDesc"/>
 		</effect_group>
 	</perk>
 
