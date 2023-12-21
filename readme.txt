@@ -9,3 +9,7 @@ https://www.nexusmods.com/7daystodie/mods/1081
 HUDPlus
 Updated 19/12/2023, version 6 Aug 2023
 https://www.nexusmods.com/7daystodie/mods/870
+
+HP Bars
+Updated 21/12/2023, version 12 Jun 2023
+https://7daystodiemods.com/hp-bars/
